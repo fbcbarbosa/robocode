@@ -5,7 +5,7 @@
   <artifactId>robots</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>robocode-maven</name>
+  <name>robocode-bots</name>
   <url>http://maven.apache.org</url>
   <dependencies>
 
